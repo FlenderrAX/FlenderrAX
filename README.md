@@ -59,6 +59,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fle/Fle/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/FlenderrAX/flenderr-s/blob/main/snake.yml" alt="Snake animation" />
 
 ###
