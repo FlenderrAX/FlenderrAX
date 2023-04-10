@@ -53,6 +53,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="52" alt="pycharm logo"  />
 </div>
 
-###
-
-<h1 align="center">python snake.py</h1>
