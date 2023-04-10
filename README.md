@@ -56,9 +56,3 @@
 ###
 
 <h1 align="center">python snake.py</h1>
-
-###
-
-<img src="https://github.com/FlenderrAX/flenderr-s/blob/main/snake.yml" alt="Snake animation" />
-
-###
