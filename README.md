@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 I’m currently working on Discord Python Bot<br>🤝 I’m looking for help with C#<br>💻 I’m currently learning C#
+🤖 I’m currently working on Discord Python Bot<br>💻 I’m currently learning C#
 
 
 ## 🌐 Socials:
