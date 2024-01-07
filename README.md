@@ -1,5 +1,7 @@
-# 💫 About Me:
-🤖 I’m currently working on Discord Python Bot<br>💻 I’m currently learning C#
+# 💫 2024 goals :
+- [ ] Madrasti v1.0.0
+- [ ] Master Python & C#
+- [ ] Find more project ideas
 
 
 ## 🌐 Socials:
