@@ -1,5 +1,5 @@
 # 💫 2024 goals :
-- [ ] Madrasti v1.0.0
+- [ ] DoYourTask v1.0.0
 - [ ] Master Python & C#
 - [ ] Find more project ideas
 
