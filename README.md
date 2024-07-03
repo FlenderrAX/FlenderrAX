@@ -1,7 +1,7 @@
 # 💫 2024 goals :
 - [ ] DoYourTask v1.0.0
 - [ ] Master Python & C#
-- [ ] Find more project ideas
+- [x] Find more project ideas
 
 
 ## 🌐 Socials:
