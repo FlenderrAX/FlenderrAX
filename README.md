@@ -1,12 +1,10 @@
-<img align="left" height="200" src="https://zupimages.net/up/24/33/s8hh.png"  />
-
-###
-
 <h1 align="left">📒 2024 goals :</h1>
 
 ###
 
-<p align="left">- DoYourTask v1.0.0<br>- Master Python & C#<br>- Find more project ideas</p>
+- [ ] ~~DoYourTask v1.0.0~~
+- [ ] Master Python & C#
+- [X] Find more project ideas
 
 ###
 
